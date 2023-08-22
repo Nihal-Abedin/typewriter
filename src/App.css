@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.paragraph{
+  font-size: 1.8rem;
+  text-align: center;
+}
+.paragrapgInput{
+  opacity: 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  cursor: default;
+  margin: 0;
+}
